@@ -1,0 +1,20 @@
+{
+  "name": "mongodb-express-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "@types/mongodb": "^4.0.6",
+    "@types/node": "^22.7.5",
+    "express": "^4.21.1",
+    "mongodb": "^6.10.0"
+  }
+}
